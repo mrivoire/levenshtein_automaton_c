@@ -1,1 +1,1 @@
-# livenshtein_automaton_c
+# levenshtein_automaton_c
